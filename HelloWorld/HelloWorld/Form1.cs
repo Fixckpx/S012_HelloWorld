@@ -19,7 +19,10 @@ namespace HelloWorld
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "Black Pink in your area";
+            textBox1.Text = "I have a pen";
+            textBox2.Text = "I have an apple";
+            textBox3.Text = "Ohhhhhhhhhhhhhhh";
+            textBox4.Text = "Apple Pen";
         }
     }
 }
